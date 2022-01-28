@@ -232,7 +232,7 @@ textarea:focus {
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     border-radius: 100%;
-    background-color: #f07677;
+    background-color: #a1e3ff;
 }
 
 #headbottom i {
@@ -460,7 +460,7 @@ textarea:focus {
     color: #ffffff;
     text-transform: uppercase;
     font-weight: normal;
-    background-color: #f07677;
+    background-color: #a1e3ff;
     text-align: center;
     -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
@@ -494,7 +494,7 @@ textarea:focus {
     color: #ffffff;
     text-transform: uppercase;
     font-weight: normal;
-    background-color: #f07677;
+    background-color: #a1e3ff;
     text-align: center;
     -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
@@ -581,7 +581,7 @@ textarea:focus {
     left: -80px;
     right: 0px;
     margin: 0px auto;
-    background-color: #f07677;
+    background-color: #a1e3ff;
     height: 150px;
     -webkit-border-radius: 150px 150px 0px 0px;
     -moz-border-radius: 150px 150px 0px 0px;
@@ -601,7 +601,7 @@ textarea:focus {
     left: 0;
     right: -80px;
     margin: 0px auto;
-    background-color: #f07677;
+    background-color: #a1e3ff;
     height: 150px;
     -webkit-border-radius: 0px 0px 150px 150px;
     -moz-border-radius: 0px 0px 150px 150px;
@@ -686,7 +686,7 @@ textarea:focus {
 }
 
 .wd_about_infobox ul li a:hover {
-    background-color: #f07677;
+    background-color: #a1e3ff;
     color: #ffffff;
     border: 1px solid #f07677;
     -webkit-transition: all 0.5s;
@@ -908,7 +908,7 @@ textarea:focus {
 }
 
 .wd_story_dot span {
-    background-color: #f07677;
+    background-color: #a1e3ff;
     width: 15px;
     height: 15px;
     -webkit-border-radius: 100%;
@@ -1210,7 +1210,7 @@ textarea:focus {
 .wd_testimonial_wrapper {
     float: left;
     width: 100%;
-    background-color: #f07677;
+    background-color: #a1e3ff;
 }
 
 .wd_testimonial_slider {
@@ -1580,7 +1580,7 @@ textarea:focus {
 }
 
 .wd_family_infobox ul li a:hover {
-    background-color: #f07677;
+    background-color: #a1e3ff;
     color: #ffffff;
     border: 1px solid #f07677;
     -webkit-transition: all 0.5s;
@@ -2019,7 +2019,7 @@ textarea:focus {
     width: 120px;
     height: 120px;
     line-height: 120px;
-    background-color: #f07677;
+    background-color: #a1e3ff;
     color: #ffffff;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
@@ -2088,7 +2088,7 @@ textarea:focus {
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     border-radius: 100%;
-    background-color: #f07677;
+    background-color: #a1e3ff;
 }
 
 /*-- Responsive css Start --*/
@@ -2297,7 +2297,7 @@ textarea:focus {
         font-size: 16px;
         color: #ffffff;
         border-radius: 3px;
-        background-color: #f07677;
+        background-color: #a1e3ff;
     }
 
     .wd_menu_btn:hover,
@@ -2324,7 +2324,7 @@ textarea:focus {
         -ms-transition: all 0.3s;
         -o-transition: all 0.3s;
         transition: all 0.3s;
-        background-color: #f07677;
+        background-color: #a1e3ff;
     }
 
     .wd_main_menu_wrapper {
