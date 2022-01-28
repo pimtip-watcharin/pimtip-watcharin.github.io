@@ -264,7 +264,8 @@ textarea:focus {
     float: left;
     width: 100%;
     font-size: 30px;
-    color: #f07677;
+    color: #a1e3ff;
+    ;
     text-transform: capitalize;
     font-family: 'Lora', serif;
     margin: 35px 0px 0px 0px;
@@ -411,7 +412,8 @@ textarea:focus {
 
 .wd_main_menu ul li a:hover,
 .wd_main_menu ul li.active a {
-    color: #f07677;
+    color: #a1e3ff;
+    ;
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -540,7 +542,8 @@ textarea:focus {
     width: 100%;
     margin: 0px;
     font-size: 18px;
-    color: #f07677;
+    color: #a1e3ff;
+    ;
     font-family: 'Lora', serif;
 }
 
@@ -643,7 +646,8 @@ textarea:focus {
     width: 100%;
     font-size: 30px;
     text-transform: capitalize;
-    color: #f07677;
+    color: #a1e3ff;
+    ;
 }
 
 .wd_about_infobox p {
@@ -746,7 +750,8 @@ textarea:focus {
     float: left;
     width: 100%;
     font-size: 30px;
-    color: #f07677;
+    color: #a1e3ff;
+    ;
     text-transform: uppercase;
     font-family: 'Lora', serif;
     margin-top: 10px;
@@ -791,7 +796,8 @@ textarea:focus {
 #clockdiv {
     float: left;
     width: 100%;
-    color: #f07677;
+    color: #a1e3ff;
+    ;
     display: inline-block;
     text-align: center;
     font-size: 70px;
@@ -980,7 +986,8 @@ textarea:focus {
     float: left;
     width: 100%;
     font-size: 16px;
-    color: #f07677;
+    color: #a1e3ff;
+    ;
     text-transform: uppercase;
 }
 
@@ -1023,7 +1030,8 @@ textarea:focus {
 .wd_event_infobox h2 {
     float: left;
     width: 100%;
-    color: #f07677;
+    color: #a1e3ff;
+    ;
     font-size: 30px;
     margin: 0px;
 }
@@ -1056,7 +1064,8 @@ textarea:focus {
 }
 
 .wd_event_infobox p a {
-    color: #f07677;
+    color: #a1e3ff;
+    ;
 }
 
 .wd_event_infobox img {
@@ -1110,7 +1119,8 @@ textarea:focus {
 }
 
 .wd_guest_infobox h2 span {
-    color: #f07677;
+    color: #a1e3ff;
+    ;
 }
 
 .wd_guest_infobox h4 {
@@ -1147,7 +1157,8 @@ textarea:focus {
 .wd_guest_formbox h4 {
     float: left;
     width: 100%;
-    color: #f07677;
+    color: #a1e3ff;
+    ;
     font-size: 30px;
     margin: 15px 0px 45px 0px;
 }
@@ -1320,7 +1331,8 @@ textarea:focus {
 
 .wd_family_tabbox .nav>li>a:hover p,
 .wd_family_tabbox .nav>li.active>a:hover p {
-    color: #f07677;
+    color: #a1e3ff;
+    ;
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -1353,7 +1365,8 @@ textarea:focus {
 .wd_family_tabbox .nav-tabs>li.active>a p,
 .wd_family_tabbox .nav-tabs>li.active>a:hover p,
 .wd_family_tabbox .nav-tabs>li.active>a:focus p {
-    color: #f07677;
+    color: #a1e3ff;
+    ;
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -1532,7 +1545,8 @@ textarea:focus {
 }
 
 .wd_family_infobox:hover h2 {
-    color: #f07677;
+    color: #a1e3ff;
+    ;
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -1715,7 +1729,8 @@ textarea:focus {
 
 .ast_glr_overlay a {
     float: right;
-    color: #f07677;
+    color: #a1e3ff;
+    ;
     width: 40px;
     border: 1px solid rgba(240, 118, 119, 0.5);
     text-align: center;
@@ -1818,7 +1833,8 @@ textarea:focus {
 }
 
 .wd_blog_info ul li a:hover {
-    color: #f07677;
+    color: #a1e3ff;
+    ;
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     -ms-transition: all 0.5s;
@@ -1827,7 +1843,8 @@ textarea:focus {
 }
 
 .wd_blog_info ul li a i {
-    color: #f07677;
+    color: #a1e3ff;
+    ;
     margin-right: 5px;
 }
 
@@ -2367,7 +2384,8 @@ textarea:focus {
     .wd_main_menu ul li a.active {
         border: 0px;
         background-color: #ffffff;
-        color: #f07677;
+        color: #a1e3ff;
+        ;
     }
 
     .menu_fixed .wd_main_menu ul li a {
