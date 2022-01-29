@@ -269,7 +269,7 @@
 			update_clock();
 			var timeinterval = setInterval(update_clock,1000);
 		}
-		run_clock('clockdiv',deadline);	
+		run_clock('clock',deadline);	
 	
 	
 	// Contact Form Submition
