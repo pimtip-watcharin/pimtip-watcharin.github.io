@@ -13409,6 +13409,14 @@ static-hero-s4
   background: #fff;
 }
 
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #a1e3ff;
+  border-radius: 50%;
+  display: inline-block;
+}
+
 .color3 .wpo-video-section .wpo-video-img .video-btn .fi::before,
 .color3 .wpo-video-section-s2 .wpo-video-img .video-btn .fi::before,
 .color3 .wpo-about-section .wpo-about-section-wrapper .wpo-about-content .about-title h2,
